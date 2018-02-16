@@ -2,6 +2,7 @@
 {
     using UnityEngine;
 
+    // New Comment
     // merge conflict
     public class LightSwitch : MonoBehaviour
     {
